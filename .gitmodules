@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "stagePop"]
-	path = stagePop
-	url = https://github.com/helenkettle/stagepop
-	shallow = true
-	subdir = stagePop
-	registered = true
